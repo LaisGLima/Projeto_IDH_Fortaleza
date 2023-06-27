@@ -3,8 +3,8 @@
 
 ### Linguagem Python
 
-### Atividade proposta pela Prof.Cynthia Moreira Maia-Cadeira de BIGDATA- Estácio-CE
+### Atividade proposta pela Prof.Cynthia Moreira Maia - Disciplina-Tópicos de BIG DATA em Python - Estácio-Parangaba
 
-## Banner
+## Banner:
 ![Estrutura Command](https://github.com/LaisGLima/Projeto_IDH_Fortaleza/blob/main/Banner_BigData.jpg)
 
