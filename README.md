@@ -1,4 +1,4 @@
-# PROJETO ANÁLISE DE IDH DOS BAIRROS DE FORTALEZA EM RELAÇÃO À RENDA
+# Projeto Análise de IDH dos Bairros de Fortaleza em Relação à Renda
 ## Projeto de análise de big data em python para avaliar o Índice de Desenvolvimento Humano (IDH) nos bairros de Fortaleza, relacionando-o com a renda :chart_with_upwards_trend:
 
 ### Linguagem Python
